@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sidd/AndroidStudioProjects/WebsiteTrivia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a4451649d0d487becea29a02d002abe92c07abc5">
+        <dex dex="/Users/sidd/AndroidStudioProjects/WebsiteTrivia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5ced3ffad3d1a704104828675d8872c3c9ea254e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sidd/AndroidStudioProjects/WebsiteTrivia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sidd/AndroidStudioProjects/WebsiteTrivia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1ff4e2be6ee81336f1b8537f63e406879b048fc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sidd/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.0/b258209549457d03e912ec4641735fc88048df99/butterknife-annotations-8.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b258209549457d03e912ec4641735fc88048df99">
+        <dex dex="/Users/sidd/AndroidStudioProjects/WebsiteTrivia/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.0_672df0f572b93064b5f451f35f17be92f6d0a362/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sidd/.android/build-cache/54d42ed693762727db068f3e8e56494c5b10798d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/sidd/AndroidStudioProjects/WebsiteTrivia/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e39a32d8b39ca371c5c8044281e08e25efd35c4/classes.dex" />
+    </item>
+
+</items>

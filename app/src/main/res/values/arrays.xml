@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Google">
+        <item>Google</item>
+        <item>1998</item>
+        <item>Sundar Pichai</item>
+        <item>Mountain View, California</item>
+        <item>Larry Page, Sergey Brin</item>
+        <item>1</item>
+        <item>7:54</item>
+    </string-array>
+    <string-array name="Yahoo">
+        <item>Yahoo</item>
+        <item>1995</item>
+        <item>Thomas J. McInerney</item>
+        <item>Sunnyvale, California</item>
+        <item>David Filo, Jerry Yang</item>
+        <item>6</item>
+        <item>4:12</item>
+    </string-array>
+    <string-array name="Facebook">
+        <item>Facebook</item>
+        <item>2004</item>
+        <item>Mark Zuckerberg</item>
+        <item>Menlo Park, California</item>
+        <item>Mark Zuckerberg, Dustin Moskovitz, Eduardo Saverin, Andrew McCollum, Chris Hughes</item>
+        <item>3</item>
+        <item>10:41</item>
+    </string-array>
+    <string-array name="Wikipedia">
+        <item>Wikipedia</item>
+        <item>2001</item>
+        <item>TBD</item>
+        <item>San Francisco, California</item>
+        <item>Jimmy Wales, Larry Sanger</item>
+        <item>5</item>
+        <item>4:23</item>
+    </string-array>
+
+
+</resources>

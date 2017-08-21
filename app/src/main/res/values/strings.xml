@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Website Trivia</string>
+    <string name="websites_list_title">Websites</string>
+    <string name="website_detail_title">Website Detail</string>
+    <string name="popup_delete_text">Delete</string>
+    <string name="btn_save_text">Save</string>
+    <string name="name_hint">Name</string>
+    <string name="founding_year_hint">Founding Year</string>
+    <string name="founders_hint">Founders</string>
+    <string name="location_hint">Location</string>
+    <string name="CEO_hint">CEO</string>
+    <string name="rank_hint">Rank</string>
+    <string name="time_spent_hint">Time Spent</string>
+    <string name="founding_year_text">Founding Year: %1$s</string>
+    <string name="founders_text">Founders: %1$s</string>
+    <string name="location_text">Location: %1$s</string>
+    <string name="CEO_text">CEO: %1$s</string>
+    <string name="rank_text">Alexa Rank: %1$s</string>
+    <string name="time_spent_text">Time Spent: %1$s</string>
+    <string name="placeholder_message">Please Select a Website to Update Details</string>
+</resources>
